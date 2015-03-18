@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Github Pages Test Blog]]></title>
+  <link href="http://tomtec77.github.io/atom.xml" rel="self"/>
+  <link href="http://tomtec77.github.io/"/>
+  <updated>2015-03-17T22:07:00-03:00</updated>
+  <id>http://tomtec77.github.io/</id>
+  <author>
+    <name><![CDATA[Tomás E. Tecce]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A First Post for Testing]]></title>
+    <link href="http://tomtec77.github.io/blog/2015/03/17/a-first-post-for-testing/"/>
+    <updated>2015-03-17T21:56:27-03:00</updated>
+    <id>http://tomtec77.github.io/blog/2015/03/17/a-first-post-for-testing</id>
+    <content type="html"><![CDATA[<h2 id="hola-hello">Hola, hello!</h2>
+
+<p>Some text <em>that goes here</em>. And some more <strong>with particular emphasis</strong>.</p>
+
+<p>A bullet list? Why not?</p>
+
+<ul>
+  <li>Item 1</li>
+  <li>Another item</li>
+  <li>One more</li>
+</ul>
+
+<p>Test for an inline equation (can’t have enough of those):
+$M = \int_0^R \rho(r) dr$</p>
+
+<p>A block of C code:</p>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+<span class="line-number">7</span>
+<span class="line-number">8</span>
+<span class="line-number">9</span>
+<span class="line-number">10</span>
+</pre></td><td class="code"><pre><code class="C"><span class="line"><span class="cp">#include &lt;stdio.h&gt;</span>
+</span><span class="line">
+</span><span class="line"><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+</span><span class="line"><span class="p">{</span>
+</span><span class="line">    <span class="kt">int</span> <span class="n">i</span><span class="p">;</span>
+</span><span class="line">
+</span><span class="line">    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;I&#39;m so glad it&#39;s back!</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">);</span>
+</span><span class="line">
+</span><span class="line">    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class="line"><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://tomtec77.github.io/blog/2015/03/17/a-first-post-for-testing/</loc>
+    <lastmod>2015-03-17T21:56:27-03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/categories/testing/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/categories/math/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/categories/markdown/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/categories/github/</loc>
+  </url>
+  <url>
+    <loc>http://tomtec77.github.io/blog/categories/octopress/</loc>
+  </url>
+</urlset>

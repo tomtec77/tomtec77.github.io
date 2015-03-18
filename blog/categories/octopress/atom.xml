@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | My Github Pages Test Blog]]></title>
+  <link href="http://tomtec77.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://tomtec77.github.io/"/>
+  <updated>2015-03-17T22:07:00-03:00</updated>
+  <id>http://tomtec77.github.io/</id>
+  <author>
+    <name><![CDATA[Tomás E. Tecce]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A First Post for Testing]]></title>
+    <link href="http://tomtec77.github.io/blog/2015/03/17/a-first-post-for-testing/"/>
+    <updated>2015-03-17T21:56:27-03:00</updated>
+    <id>http://tomtec77.github.io/blog/2015/03/17/a-first-post-for-testing</id>
+    <content type="html"><![CDATA[<h2 id="hola-hello">Hola, hello!</h2>
+
+<p>Some text <em>that goes here</em>. And some more <strong>with particular emphasis</strong>.</p>
+
+<p>A bullet list? Why not?</p>
+
+<ul>
+  <li>Item 1</li>
+  <li>Another item</li>
+  <li>One more</li>
+</ul>
+
+<p>Test for an inline equation (can’t have enough of those):
+$M = \int_0^R \rho(r) dr$</p>
+
+<p>A block of C code:</p>
+
+<p>&#8220;`C
+#include <stdio.h></stdio.h></p>
+
+<p>int main()
+{
+    int i;</p>
+
+<pre><code>printf("I'm so glad it's back!\n");
+
+return 0; } ```
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
